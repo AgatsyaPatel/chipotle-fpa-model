@@ -56,9 +56,9 @@ Blue cells are inputs or figures typed from filings, and black cells are formula
 
 Three pages: why FY25 missed plan, growth vs profitability FY23–27, and the FY27 scenario range.
 
-![FY25 Plan vs Actual](screenshots/page1_plan_vs_actual.png)
-![Growth vs Profitability](screenshots/page2_trends.png)
-![Scenarios](screenshots/page3_scenarios.png)
+![FY25 Plan vs Actual](Screenshots/page1_plan_vs_actual.png)
+![Growth vs Profitability](Screenshots/page2_trends.png)
+![Scenarios](Screenshots/page3_scenarios.png)
 
 The data model is a star schema with a long-format fact table and dimensions for line item, scenario and year, plus DAX measures for revenue, operating income, margin and plan vs actual variance.
 
